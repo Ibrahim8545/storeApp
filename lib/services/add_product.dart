@@ -18,8 +18,8 @@ class AddProductServices
           'title':title,
            'price':price,
            'description' :description,
-           'image'  :    image,
-           'category   '   :category,
+           'image':image,
+           'category':category,
 
         },
         
